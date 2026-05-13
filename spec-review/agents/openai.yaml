@@ -1,0 +1,4 @@
+interface:
+  display_name: "Spec Review"
+  short_description: "Review in-progress OpenSpec docs"
+  default_prompt: "Use $spec-review to review the current OpenSpec change folder and report findings, open questions, and readiness."
