@@ -1,9 +1,8 @@
 ---
-name: spec-review
+name: openspec-review
 description: Use when reviewing, auditing, or giving feedback on in-progress OpenSpec change folders, proposal.md, design.md, tasks.md, or specs/*/spec.md before approval, during implementation, or before archive.
 ---
-
-# Spec Review
+# OpenSpec Review
 
 ## 概览
 
