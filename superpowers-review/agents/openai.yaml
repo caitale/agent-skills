@@ -1,0 +1,4 @@
+interface:
+  display_name: "Superpowers Review"
+  short_description: "Review Superpowers specs and implementation plans"
+  default_prompt: "Use $superpowers-review to review the current Superpowers spec or plan Markdown and report findings, open questions, and readiness."
