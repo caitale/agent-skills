@@ -78,7 +78,7 @@ Agent({
 })
 ```
 
-`model` 和 `subagent_type` 不可同时使用。`model` 接受别名（`opus`、`sonnet`、`haiku`）或完整名称（`claude-opus-4-7`）。
+`model` 和 `subagent_type` 不可同时使用。`model` 接受别名（`opus`、`sonnet`、`haiku`）或完整名称（`claude-opus-4-8`）。
 
 **Codex：**
 
